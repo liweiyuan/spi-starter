@@ -26,15 +26,15 @@
             <artifactId>interface</artifactId>
             <version>1.0.0</version>
         </dependency>
-        <!--<dependency>
+        <dependency>
             <groupId>com.wade</groupId>
             <artifactId>good-printer</artifactId>
             <version>1.0.0</version>
-        </dependency>-->
-        <dependency>
+        </dependency>
+        <!--<dependency>
             <groupId>com.wade</groupId>
             <artifactId>bad-printer</artifactId>
             <version>1.0.0</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 </project>

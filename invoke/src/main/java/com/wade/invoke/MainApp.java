@@ -6,6 +6,7 @@ import java.util.ServiceLoader;
 
 /**
  * Created by tingyun on 2017/11/13.
+ * https://www.cnkirito.moe/2017/11/09/spi/
  */
 public class MainApp {
 

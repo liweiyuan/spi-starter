@@ -14,11 +14,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="bad-printer" target="1.5" />
-      <module name="good-printer" target="1.5" />
-      <module name="interface" target="1.5" />
-      <module name="invoke" target="1.5" />
-      <module name="spi-starter" target="1.5" />
+      <module name="bad-printer" target="1.8" />
+      <module name="good-printer" target="1.8" />
+      <module name="interface" target="1.8" />
+      <module name="invoke" target="1.8" />
+      <module name="spi-starter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

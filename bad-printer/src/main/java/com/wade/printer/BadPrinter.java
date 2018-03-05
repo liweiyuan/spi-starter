@@ -2,8 +2,6 @@ package com.wade.printer;
 
 import com.wade.inter.Printer;
 
-import java.io.PrintWriter;
-
 /**
  * Created by tingyun on 2017/11/13.
  */
